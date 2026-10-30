@@ -183,7 +183,17 @@ java -jar target/sistema-nomina-cipa-1.0.0.jar --demo
 
 ---
 
-## 12. CONCLUSIONES
+## 12. REPOSITORIO OFICIAL EN GITHUB
+El código fuente completo, el historial de versiones con Git y la documentación técnica y académica se encuentran publicados oficialmente en:
+
+**Enlace del repositorio:**  
+https://github.com/A-F-G-A/INFORME-FINAL-DE-ENTREGA-SISTEMA-DE-N-MINA-ORIENTADO-A-OBJETOS-PROYECTO-CIPA
+
+El proyecto cuenta con 20 pruebas unitarias aprobadas mediante JUnit 5 y empaquetado verificado con Maven.
+
+---
+
+## 13. CONCLUSIONES
 1. Se demostró que el polimorfismo y la programación orientada a objetos resuelven la liquidación de nómina eliminando por completo los condicionales dependientes de tipos concretos.
 2. La aplicación de los principios SOLID dota al software de una alta capacidad de extensión frente a cambios legales o contractuales futuros.
 3. El uso estricto de `BigDecimal` es imperativo en aplicaciones financieras para evitar pérdidas de precisión y asegurar la confiabilidad contable.
@@ -191,7 +201,7 @@ java -jar target/sistema-nomina-cipa-1.0.0.jar --demo
 
 ---
 
-## 13. REFERENCIAS BIBLIOGRÁFICAS
+## 14. REFERENCIAS BIBLIOGRÁFICAS
 - Bloch, J. (2018). *Effective Java* (3rd ed.). Addison-Wesley Professional.
 - Martin, R. C. (2008). *Clean Code: A Handbook of Agile Software Craftsmanship*. Prentice Hall.
 - Martin, R. C. (2017). *Clean Architecture: A Craftsman's Guide to Software Structure and Design*. Prentice Hall.
